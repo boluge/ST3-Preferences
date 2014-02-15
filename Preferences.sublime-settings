@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Color/Peacock.custom.tmTheme",
+	"color_scheme": "Packages/User/Color/Peacock.tmTheme",
 	"enable_tab_scrolling": false,
 	"folder_exclude_patterns":
 	[
@@ -14,7 +14,7 @@
 		"Vendor"
 	],
 	"font_face": "Inconsolata",
-	"font_size": 13,
+	"font_size": 14,
 	"ignored_packages":
 	[
 		"Vintage"
